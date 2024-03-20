@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+.central {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+   text-align: center;
+
+
+}
+
+.van{
+  text-align: center;
+  padding: 10px 10px;
+  background-color: blueviolet;
+}
+
+img{
+  font-size: large;
+}
+figure{
+  text-align: center;
+}
+div{
+  float: left;
+  background-color: blueviolet;
+  text-align: center;
+  width: 25%;
+}
